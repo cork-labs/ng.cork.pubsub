@@ -1,0 +1,28 @@
+{
+  "generator-nglib": {
+    "project.name": "ng.cork.pubsub",
+    "project.description": "AngularJS minimal pubsub service.",
+    "bower.id": "ng.cork.pubsub",
+    "npm.id": null,
+    "angular.module": "ng.cork.pubsub",
+    "has.tpl": false,
+    "has.css": false,
+    "has.less": false,
+    "has.sass": false,
+    "has.docs": true,
+    "use.git": true,
+    "github.username": "cork-labs",
+    "github.reponame": "ng.cork.pubsub",
+    "homepage.url": "https://github.com/cork-labs/ng.cork.pubsub",
+    "docs.url": "http://jarvis.cork-labs.org/ng.cork.pubsub/current/docs",
+    "bugs.url": "https://github.com/cork-labs/ng.cork.pubsub/issues",
+    "license.name": "MIT",
+    "license.url": "http://cork-labs.mit-license.org/2015",
+    "author.name": "Cork Labs",
+    "author.email": "contact@cork-labs.org",
+    "author.url": "http://cork-labs.org",
+    "use.travis": true,
+    "travis.id": "cork-labs/ng.cork.pubsub",
+    "repo.url": "git@github.com:cork-labs/ng.cork.pubsub.git"
+  }
+}
