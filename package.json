@@ -1,6 +1,6 @@
 {
   "name": "ng.cork.pubsub",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "AngularJS minimal pubsub service.",
   "author": {
     "name": "Cork Labs",

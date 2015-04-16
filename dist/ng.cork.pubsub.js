@@ -1,5 +1,5 @@
 /**
- * ng.cork.pubsub - v0.0.2 - 2015-04-09
+ * ng.cork.pubsub - v0.0.3 - 2015-04-16
  * https://github.com/cork-labs/ng.cork.pubsub
  *
  * Copyright (c) 2015 Cork Labs <http://cork-labs.org>
